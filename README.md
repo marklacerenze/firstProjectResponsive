@@ -1,1 +1,1 @@
-# firstProjectResponsive
+# firstResponsiveProject
